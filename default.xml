@@ -6,12 +6,12 @@
   <default revision="InvalidRevision" sync-j="4" />
 
   <project path="scm/vschuste-intc"
-           name="vschuste-intc.git" remote="self" />
+           name="vschuste-intc.git" remote="self" revision="main"/>
 
   <project path="scm/component_tool"
-           name="epg.csig_sct.scm_components2.git" remote="sandbox" />
+           name="epg.csig_sct.scm_components2.git" remote="sandbox" revision="master" />
 
   <project path="scm/shared_cs"
-           name="epg.csig_sct.scm_shared_cs.git" remote="sandbox" />
+           name="epg.csig_sct.scm_shared_cs.git" remote="sandbox" revision="master"/>
   
 </manifest>
