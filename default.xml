@@ -8,10 +8,10 @@
   <project path="scm/vschuste-intc"
            name="vschuste-intc.git" remote="self" />
 
-  <!-- <project path="scm/component_tool"
+  <project path="scm/component_tool"
            name="epg.csig_sct.scm_components2.git" remote="sandbox" />
 
   <project path="scm/shared_cs"
            name="epg.csig_sct.scm_shared_cs.git" remote="sandbox" />
-  -->
+  
 </manifest>
